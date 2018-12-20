@@ -3,7 +3,7 @@
     "col" : {
       "metadata" : {
         "name" : "metadata.tsv",
-        "sha" : "fcf7e5b60cd939145976fd895bb4f883e1f0b638"
+        "sha" : "cd45beacf82d528085f2ae0654661f3439ea8a1c"
       },
       "script" : {
         "name" : "test_samples.r",
