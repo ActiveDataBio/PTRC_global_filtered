@@ -1,0 +1,44 @@
+{
+  "tests" : {
+    "col" : {
+      "metadata" : {
+        "name" : "metadata.tsv",
+        "sha" : "8697a486fa6e15eb9742a0adb4257b2b8c506a83"
+      },
+      "script" : {
+        "name" : "test_samples.r",
+        "sha" : null
+      },
+      "custom" : [ ]
+    },
+    "row" : {
+      "geneset" : {
+        "name" : "genesets.RData",
+        "sha" : "0e225b9f5d68efb2973e32584aa5d0d7c13a100d"
+      },
+      "script" : {
+        "name" : "test_molecules.r",
+        "sha" : "f458c5985b3b05301a8c896b37662d9e4c5c8ad6"
+      },
+      "background" : {
+        "name" : "background.csv",
+        "sha" : "62718bb8d0aaf01f2ead8d57ff4eb6543033b1eb"
+      }
+    }
+  },
+  "dataset" : {
+    "matrix" : {
+      "name" : "matrix.csv",
+      "sha" : "e4f37b2a2da1ef7972a0c8847db15980f98cd608"
+    },
+    "col" : {
+      "name" : "dendro_col.json",
+      "sha" : "f192d3ae3923f6a970df343131d70b83ac11e7ab"
+    },
+    "row" : {
+      "name" : "dendro_row.json",
+      "sha" : "aad24419c3e420d4f14c443e0c90630cb4e894c1"
+    }
+  },
+  "recommenders" : null
+}
